@@ -1,4 +1,4 @@
-%%writefile streamlit_food.py
+# %%writefile streamlit_food.py
 import streamlit as st
 from fastai.vision.all import *
 import PIL
